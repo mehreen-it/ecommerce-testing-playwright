@@ -13,23 +13,23 @@ Throughout the project, I designed detailed manual test cases, validated REST AP
 
 ## ✨ Features
 
-✅ Manual testing for core e-commerce workflows
+* Manual testing for core e-commerce workflows
 
-✅ Shopping cart functionality validation
+* Shopping cart functionality validation
 
-✅ User registration and checkout testing
+* User registration and checkout testing
 
-✅ REST API testing using Postman
+* REST API testing using Postman
 
-✅ API request and response validation
+* API request and response validation
 
-✅ End-to-end browser automation using Playwright
+* End-to-end browser automation using Playwright
 
-✅ Functional and regression testing
+* Functional and regression testing
 
-✅ Cross-browser testing
+* Cross-browser testing
 
-✅ Structured test documentation
+* Structured test documentation
 
 ## 🛠️ Technologies
 
